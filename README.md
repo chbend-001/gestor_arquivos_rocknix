@@ -13,7 +13,7 @@
     chmod +x rocknix_deployer_gui.py
     python3 rocknix_deployer_gui.py
 
-📄 README.md (Versão v1.9.1)
+(Versão v1.9.1)
 Gestor de Arquivos ROCKNIX
 
 O Gestor de Arquivos ROCKNIX é uma ferramenta utilitária desenvolvida para facilitar a transferência, organização e otimização de coleções de jogos para dispositivos que utilizam o sistema operativo ROCKNIX.
