@@ -1,0 +1,44 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Ambientes Virtuais ---
+venv/
+ENV/
+.env
+.venv
+
+# --- Interface e Recursos ---
+# O ícone é necessário para o script, mas você pode ignorar 
+# se não quiser distribuir a imagem original por direitos autorais
+# icon.jpg
+
+# --- Logs e Dados ---
+*.log
+.DS_Store
+Thumbs.db
+
+# --- Configurações de IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
